@@ -1,2 +1,2 @@
 # Virtual-Paint
-Virtual paint allow to draw without using physical mouse , you can draw using fingers.
+Virtual paint that makes use of the hand gestures and hand tip detection for performing paint functions in the computer using computer vision (OpenCv).
